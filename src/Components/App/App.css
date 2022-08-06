@@ -20,7 +20,7 @@ h1 {
 h1 .highlight {
   color: #6c41ec;
 }
-
+  
 h2 {
   font-family: 'Poppins', sans-serif;
   font-size: 1.55rem;
@@ -35,7 +35,7 @@ h2 {
   background-repeat: no-repeat;
   font-family: 'Work Sans', sans-serif;
   font-weight: 500;
-  color: #fff;
+  color: #fff;          
 }
 
 .App-playlist {
